@@ -1,5 +1,6 @@
 # SYSUer-Matrix-Helper
 中山大学 Matrix 平台辅助工具，支持编程题目打包下载及理论题自动翻页导出 Word。
+由vibe-coding获得，导出格式可能丑丑的但是懒得改了（体谅一下
 
 # Matrix SYSU Helper 🎓
 
@@ -13,11 +14,9 @@
 
 ## 🚀 安装方法
 1. 首先安装浏览器插件 [Tampermonkey](https://www.tampermonkey.net/)。
-2. 点击 [这里](你的raw文件链接) 进行安装。
+2. 导入该脚本。
 3. 刷新 Matrix 页面即可使用。
 
-## 📸 运行截图
-(这里可以贴上你之前发给我的那些 VSCode 和 Matrix 的对比图)
 
 ## ⚖️ 开源协议
 基于 MIT License 开源。

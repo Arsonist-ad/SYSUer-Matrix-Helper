@@ -14,7 +14,7 @@
 
 ## 🚀 安装方法
 1. 首先安装浏览器插件 [Tampermonkey](https://www.tampermonkey.net/)。
-2. 导入该脚本。
+2. 导入该脚本（最好再来一下ctrl+s保存？）。
 3. 刷新 Matrix 页面即可使用。
 
 

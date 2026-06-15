@@ -1,5 +1,5 @@
 # SYSUer-Matrix-Helper
-中山大学 Matrix 平台辅助工具，支持编程题目打包下载及理论题自动翻页导出 Word。
+中山大学 Matrix 平台辅助工具，支持编程题目打包下载,解压后vscode打开文件夹即可开始复习(迫真)。
 
 由vibe-coding获得
 

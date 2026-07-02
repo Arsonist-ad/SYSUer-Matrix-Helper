@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Matrix 打包助手 (全模式版 v9.0 - 代码+理论题)
+// @name         Matrix 打包助手 (v9.0 - 代码+理论题)
 // @namespace    http://tampermonkey.net/
 // @version      9.0
 // @description  代码题：生成 1-练习区（清空模板）+ 2-答案区（完整代码）；理论题：打包题目及答案到 .md 文件。
